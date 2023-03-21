@@ -1,0 +1,24 @@
+h1{color: red;
+
+		}
+		.checkList{
+			width: 370px;
+		}.itens{
+			display:flex;
+		     flex-direction: column;
+		     text-align: left;
+		}
+		.botao{
+		width: 150px;
+		height:100px;
+	}
+	.check{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.observacao {
+		width: 200px;
+		height:500px;
+	}
+	
